@@ -5,3 +5,6 @@ A few simple gimp features:
 4.) Move the images to be one below the other (tools -> transform tools -> move)
 5.) From layers menu choose merge layers
 6.) From file choose override <path>
+
+In case toolbox and layers widgets disappear, go to Window -> Toolbox and Window -> Layers respectively
+
